@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Shourya 👋
 
+  💡  I’m currently pursuing a Master's degree in Computer Science from New Jersey Institute of Technology. I will be graduating in May 2021.
+  🤔 I'm looking for full time opportunities for Software Development.
+  🖥 I have worked for ZS Associates as Business Technology Analyst working on cloud based data warehousing solution.
+  🖥 I have also done two six-month internships as Software Developer Intern at Reflexis Systems and Ofbusiness.com working on web development projects.
+  🌱 I recently finished certification from Coursera on Front-End Web Development with React and currently about Redux.
+  📫 How to reach me: <a href="shouryapunj93@gmail.com">Email</a> <a href="https://www.linkedin.com/in/shourya-punj-231a9a149/">LinkedIn</a>
+  😄 Pronouns: he/him/his
+  ⚡ Fun fact: I enjoy playing PC games with friends.
+  
 <!--
 **shouryapunj/shouryapunj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
