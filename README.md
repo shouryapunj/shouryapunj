@@ -6,7 +6,7 @@
   <li>🖥 I have worked for ZS Associates as Business Technology Analyst working on cloud based data warehousing solution.</li>
   <li>🖥 I have done two six-month internships as Software Developer Intern at Reflexis Systems and Ofbusiness.com working on web development projects.</li>
   <li>🌱 I recently finished certification from Coursera on Front-End Web Development with React and currently learning about Redux.</li>
-  <li>📫 How to reach me: <a href="shouryapunj93@gmail.com">Email</a> ,<a href="https://www.linkedin.com/in/shourya-punj-231a9a149/">LinkedIn</a></li>
+  <li>📫 How to reach me: <a href="shouryapunj93@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/shourya-punj-231a9a149/">LinkedIn</a></li>
     <li>😄 Pronouns: he/him/his</li>
     <li>⚡ Fun fact: I enjoy playing PC games with friends</li>
   </p>
