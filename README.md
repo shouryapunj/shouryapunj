@@ -2,8 +2,8 @@
   <p>
   <ul>
     <li>💡  I graduated with a Master's degree in Computer Science from New Jersey Institute of Technology in May 2021.</li>
-    <li>🤔 I'm looking for full time opportunities in Software Development.</li>
-  <li>🖥 I have worked for ZS Associates as Software Engineer - Data working on cloud based data warehousing solution.</li>
+    <li>🔭 I'm working at Egen as an Associate Software Engineer developing and maintaing Uptake's microservices application built using Java, Spring Boot, Elasticsearch, Kafka, Docker, Bitbucket, Jenkins, Artifactory, Dcos</li>
+  <li>🖥 I have worked for ZS Associates as Software Engineer (BTA) working on cloud based data warehousing solution.</li>
   <li>🖥 I have done two six-month internships as Software Developer Intern at Reflexis Systems and Ofbusiness.com working on web development projects.</li>
   <li>🌱 I recently finished certification from Coursera on Front-End Web Development with React and currently learning about Redux.</li>
   <li>📫 How to reach me: <a href="shouryapunj93@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/shourya-punj-231a9a149/">LinkedIn</a></li>
